@@ -7,7 +7,7 @@ Pacman's 30th Anniversary.
 With the help of StackOverflow users, we were able to get a playable
 version working 100%.
 
-To play a live version: http://vocalnutria9174.github.io/gpacman
+To play a live version: https://vocalnutria9174.github.io/gpacman
 
 Or download the source and run it offline.
 
